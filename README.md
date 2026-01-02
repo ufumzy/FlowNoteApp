@@ -3,7 +3,8 @@
 > **A premium, fluid Markdown note-taking experience.**
 
 <p align="center">
-  <img src="build/icon.png" alt="FlowNote Logo" width="128" height="128" />
+  <img width="500" height="500" alt="FlowNote Logo" src="https://github.com/user-attachments/assets/9df151b0-a14a-41e1-a6c2-5693c07945a6" />
+
   <br>
   <br>
   <a href="LICENSE">
