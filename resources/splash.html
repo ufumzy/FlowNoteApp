@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+  <head>
+    <style>
+      body {
+        margin: 0;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: transparent; /* Transparent background */
+        overflow: hidden; /* Prevent scrollbars */
+        user-select: none;
+        -webkit-app-region: drag;
+      }
+      .logo {
+        width: 150px;
+        height: auto;
+        filter: drop-shadow(0 0 10px rgba(0,0,0,0.5)); /* Optional subtle shadow for visibility */
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Use the app icon -->
+    <img src="icon.png" class="logo" alt="Logo" />
+  </body>
+</html>
