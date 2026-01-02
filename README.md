@@ -61,8 +61,8 @@ Follow these steps to get a local copy up and running.
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/flownote.git
-    cd flownote
+    git clone https://github.com/ufumzy/flownoteapp.git
+    cd flownoteapp
     ```
 
 2.  Install dependencies:
@@ -106,5 +106,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <p align="center">
-  Built with ❤️ by the FlowNote Team
+  Built with ❤️ by ufumzy
 </p>
