@@ -34,12 +34,10 @@ We believe your notes should look as good as they feel to write. With a deep, ca
 *   **🚀 Cross-Platform**: Optimized for Windows, macOS, and Linux.
 
 ## 📸 Screenshots
+<img width="1127" height="853" alt="image" src="https://github.com/user-attachments/assets/7762db3a-3066-4552-a5b9-c464780618bc" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/26f77561-5a84-4bf0-9a38-cafbf8dd8d1a" />
 
-<p align="center">
-  <img src="resources/splash.html" alt="Splash Screen Preview" width="600" />
-  <br>
-  <em>Splash Screen with New FlowNote Icon</em>
-</p>
+
 
 ## 🛠️ Tech Stack
 
